@@ -1,8 +1,8 @@
 const users = {
     page : 1,
-    per_page : 6,
-    total : 12,
-    total_pages : 2,
+    company: "Toshconsult Technologies Inc.",
+    address : "45B, Ibrahim Taiwo Road Ilorin Kwara state.",
+    purpose : "Backend Development Training",
     data : [
         {
             id:1,
@@ -54,6 +54,24 @@ const users = {
             last_name : "Aron",
             email : "taofeeqkolapo@gmail.com",
             phone_number : "08186791912",
+            profession : "Frontend Engineer"
+
+        },
+        {
+            id:7,
+            first_name : "Abubakar",
+            last_name : "Zakariyah",
+            email : "abtech001@gmail.com",
+            phone_number : "08163856934",
+            profession : "Frontend Engineer"
+
+        },
+        {
+            id:8,
+            first_name : "Dynamic",
+            last_name : "Consult",
+            email : "olamideelijah@gmail.com",
+            phone_number : "08145429499",
             profession : "Frontend Engineer"
 
         }
