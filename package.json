@@ -1,0 +1,18 @@
+{
+  "name": "reqres-api",
+  "version": "1.0.0",
+  "description": "The App will be use to provide information about random individuals and the end result will be beneficial to frontend developers especially the newbie that are just coming to learn more about API calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Simsuraj_Dev",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
