@@ -5,6 +5,7 @@ const users = {
     total_pages : 2,
     data : [
         {
+            id:1,
             first_name : "Taofeeq",
             last_name : "Kolapo",
             email : "taofeeqkolapo@gmail.com",
@@ -12,6 +13,7 @@ const users = {
             profession : "MERN Stack Engineer"
         },
         {
+            id:2,
             first_name : "Tosin",
             last_name : "Samuel",
             email : "tosinsamuel@gmail.com",
@@ -20,6 +22,7 @@ const users = {
 
         },
         {
+            id:3,
             first_name : "Abdullahi",
             last_name : "Abdulfatai",
             email : "abdulfatahabdol@gmail.com",
@@ -28,6 +31,7 @@ const users = {
 
         },
         {
+            id:4,
             first_name : "Idris",
             last_name : "Sultan",
             email : "idrisola707@gmail.com",
@@ -36,6 +40,7 @@ const users = {
 
         },
         {
+            id:5,
             first_name : "Mustapha",
             last_name : "Suleiman",
             email : "suleimanmustapha@gmail.com",
@@ -44,6 +49,7 @@ const users = {
 
         },
         {
+            id:6,
             first_name : "Ibrahim",
             last_name : "Aron",
             email : "taofeeqkolapo@gmail.com",
